@@ -15,13 +15,6 @@ Metasploit • Burp Suite • Wireshark • Nmap • Nikto • Hydra • Nessus
 TCP/IP • OSI Model • Firewalls • VPN • IDS/IPS • Network Security Protocols
 Linux (Kali, Parrot OS, Ubuntu) • Windows • VMware • VirtualBox • Docker
 
-**Certifications**
-
-🏅 TÜV SÜD Cybersecurity Professional (Ongoing)
-
-🎓 Google Cybersecurity (Coursera, 2025)
-
-🔐 Introduction to Cybersecurity (CISCO Networking Academy, 2025)
 
 
 ## 💻 Developer Profile
