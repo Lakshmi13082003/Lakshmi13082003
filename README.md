@@ -1,5 +1,5 @@
-# 👋Hey its me Lakshmi Manoj
-### **Cybersecurity Specialist | Penetration Tester | VAPT Practitioner | Secure Developer**
+# 👋Hey Lakshmi here,
+## **Cybersecurity Specialist | Penetration Tester | VAPT Practitioner | Secure Developer**
 
 I am a cybersecurity professional with hands-on expertise in **Offensive Security** and **VAPT**. My background in software development allows me to bridge the gap between identifying vulnerabilities and implementing resilient, security-first architectures.
 
