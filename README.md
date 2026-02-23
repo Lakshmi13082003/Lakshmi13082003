@@ -1,88 +1,62 @@
-👋 Hi there, I'm Lakshmi Manoj
-🔐 Cybersecurity Specialist | Penetration Tester | VAPT Practitioner | Secure Developer
+# 🛡️ Lakshmi Manoj
+### **Cybersecurity Specialist | Penetration Tester | VAPT Practitioner | Secure Developer**
 
-🛡️ About Me
-I am a cybersecurity professional with strong hands-on expertise in Penetration Testing and Vulnerability Assessment & Penetration Testing (VAPT).
-I specialize in identifying security weaknesses, exploiting vulnerabilities ethically, and providing structured remediation strategies to strengthen system defenses.
-With a strong foundation in both offensive security and secure software development, I bridge the gap between identifying vulnerabilities and building secure, resilient systems.
+I am a cybersecurity professional with hands-on expertise in **Offensive Security** and **VAPT**. My background in software development allows me to bridge the gap between identifying vulnerabilities and implementing resilient, security-first architectures.
 
-🔎 Core Cybersecurity Expertise
+---
 
-🔐 Penetration Testing & VAPT
-Web Application Penetration Testing
-Network Penetration Testing
-Vulnerability Assessment & Risk Analysis
-Exploitation & Post-Exploitation Techniques
-OWASP Top 10 Security Testing
-SQL Injection & Authentication Bypass Testing
-Network Enumeration & Port Scanning
-Firewall & Host-Based Security Testing
+## 🔎 Core Expertise
 
-🌐 Network Security
-TCP/IP & OSI Model Deep Understanding
-Network Traffic Analysis
-Packet Inspection & Protocol Analysis
-Network Mapping & Reconnaissance
-IDS/IPS Concepts
-Wireless Security Testing
+### **🔐 Penetration Testing & VAPT**
+* **Web & Network:** Specialized in Web App Pentesting (OWASP Top 10) and Network security assessments.
+* **Exploitation:** Skilled in SQL Injection, Authentication Bypass, and Post-Exploitation techniques.
+* **Remediation:** Delivering structured, actionable strategies to harden system defenses.
 
-🧪 Security Tools & Platforms
-Offensive Security Tools
-Nmap
-Burp Suite
-Metasploit
-Wireshark
-Nikto
-Hydra
-Nessus
+### **🌐 Network Security**
+* **Analysis:** Deep understanding of TCP/IP, OSI Model, and Packet Inspection.
+* **Reconnaissance:** Network Mapping, Enumeration, and Protocol Analysis.
+* **Defense:** IDS/IPS concepts, Firewall configuration, and Wireless Security testing.
 
-Operating Systems & Platforms
-Kali Linux
-Parrot OS
-Ubuntu
-Windows
-VMware
-VirtualBox
-Docker
+---
 
-🧠 Security Projects & Practical Work
+## 🧪 Technical Toolkit
 
-My repositories demonstrate practical implementation of:
-🔍 Advanced Nmap Enumeration & Network Mapping
-🛡️ Web Application Vulnerability Assessment
-💉 SQL Injection Analysis & Exploitation
-🔥 Host-Based Firewall Security Implementation
-📡 Network Traffic Analysis using Wireshark
-🦠 Malware Analysis & Detection (YARA based)
-🧪 Vulnerability Scanning using Nessus
-⚔️ System Exploitation using Metasploit
-📧 Phishing Email Analysis
-🔑 Password Strength Analysis
+| Category | Tools & Platforms |
+| :--- | :--- |
+| **Offensive Security** | `Nmap` • `Burp Suite` • `Metasploit` • `Nikto` • `Hydra` |
+| **Analysis & Scanning** | `Wireshark` • `Nessus` • `Packet Inspection` |
+| **OS & Virtualization** | `Kali Linux` • `Parrot OS` • `Ubuntu` • `Docker` • `VMware` |
+| **Development** | `Python` • `JavaScript` • `Django` • `Node.js` • `MySQL` • `Git` |
 
-Each project focuses on:
-Real-world attack simulation
-Risk identification
-Exploitation methodology
-Security impact analysis
-Mitigation & remediation strategies
+---
 
-💻 Secure Development Background
-Before specializing in cybersecurity, I built applications using:
-Languages: Python, JavaScript, Java, C
-Frameworks: Django, Node.js, Express.js
-Frontend: HTML, CSS
-Databases: MySQL, MongoDB
-Version Control: Git & GitHub
+## 🧠 Security Projects & Research
+*My repositories focus on real-world attack simulations and mitigation strategies:*
 
-This background enables me to:
-Understand application architecture deeply
-Identify logic-based vulnerabilities
-Recommend secure coding practices
-Build security-first applications
+* **🔍 Network Recon:** Advanced Nmap Enumeration & Network Mapping.
+* **💉 Web Security:** SQL Injection Analysis & Exploitation frameworks.
+* **🛡️ Defensive Labs:** Host-Based Firewall Implementation & YARA-based Malware Detection.
+* **📧 Social Engineering:** Phishing Email Analysis & Password Strength Research.
+* **⚔️ Exploitation:** System-level exploitation using Metasploit & Nessus vulnerability scanning.
 
-🎯 Professional Focus
-Offensive Security
-VAPT Execution & Reporting
-Risk-Based Vulnerability Assessment
-Secure System Design
-Continuous Security Improvement
+---
+
+## 💻 The "Secure Dev" Advantage
+My experience with **Django, Node.js, and Java** allows me to:
+* **Understand Application Logic:** Identify deep-seated logic flaws that automated scanners miss.
+* **Code-Level Remediation:** Provide developers with actual secure coding practices.
+* **Security-First Design:** Build and audit applications from the ground up.
+
+---
+
+## 🎯 Professional Focus
+* **Offensive Security:** Red Teaming and advanced exploitation.
+* **VAPT Execution:** Delivering high-quality, risk-based security reports.
+* **Continuous Improvement:** Researching emerging threats and mitigation.
+
+---
+
+### 🤝 Connect with Me
+* **Focus:** VAPT, Secure Coding, Risk Assessment.
+* **Goal:** Building a more secure digital landscape.
+
