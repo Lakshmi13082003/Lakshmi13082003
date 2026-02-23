@@ -1,37 +1,88 @@
-## 👋 Hi there, I'm Lakshmi Manoj
+👋 Hi there, I'm Lakshmi Manoj
+🔐 Cybersecurity Specialist | Penetration Tester | VAPT Practitioner | Secure Developer
 
-I'm a Cybersecurity Enthusiast and Developer passionate about building secure, efficient, and user-friendly applications. With a strong foundation in both software development and information security, I aim to bridge the gap between development and defense — creating solutions that are not only innovative but also secure.
+🛡️ About Me
+I am a cybersecurity professional with strong hands-on expertise in Penetration Testing and Vulnerability Assessment & Penetration Testing (VAPT).
+I specialize in identifying security weaknesses, exploiting vulnerabilities ethically, and providing structured remediation strategies to strengthen system defenses.
+With a strong foundation in both offensive security and secure software development, I bridge the gap between identifying vulnerabilities and building secure, resilient systems.
 
-## 🛡️ Cybersecurity Profile
+🔎 Core Cybersecurity Expertise
 
-Cybersecurity enthusiast with hands-on experience in ethical hacking, penetration testing, and vulnerability assessment. Skilled in using tools like Nmap, Burp Suite, Wireshark, and Metasploit for threat detection and risk assessment. Strong foundation in OWASP Top 10, network security protocols, and cloud platforms (AWS, Azure, GCP), with the ability to adapt quickly in dynamic environments.
+🔐 Penetration Testing & VAPT
+Web Application Penetration Testing
+Network Penetration Testing
+Vulnerability Assessment & Risk Analysis
+Exploitation & Post-Exploitation Techniques
+OWASP Top 10 Security Testing
+SQL Injection & Authentication Bypass Testing
+Network Enumeration & Port Scanning
+Firewall & Host-Based Security Testing
 
-**Security Tools**
+🌐 Network Security
+TCP/IP & OSI Model Deep Understanding
+Network Traffic Analysis
+Packet Inspection & Protocol Analysis
+Network Mapping & Reconnaissance
+IDS/IPS Concepts
+Wireless Security Testing
 
-Metasploit • Burp Suite • Wireshark • Nmap • Nikto • Hydra • Nessus
+🧪 Security Tools & Platforms
+Offensive Security Tools
+Nmap
+Burp Suite
+Metasploit
+Wireshark
+Nikto
+Hydra
+Nessus
 
-**Networking & Platforms**
+Operating Systems & Platforms
+Kali Linux
+Parrot OS
+Ubuntu
+Windows
+VMware
+VirtualBox
+Docker
 
-TCP/IP • OSI Model • Firewalls • VPN • IDS/IPS • Network Security Protocols
-Linux (Kali, Parrot OS, Ubuntu) • Windows • VMware • VirtualBox • Docker
+🧠 Security Projects & Practical Work
 
+My repositories demonstrate practical implementation of:
+🔍 Advanced Nmap Enumeration & Network Mapping
+🛡️ Web Application Vulnerability Assessment
+💉 SQL Injection Analysis & Exploitation
+🔥 Host-Based Firewall Security Implementation
+📡 Network Traffic Analysis using Wireshark
+🦠 Malware Analysis & Detection (YARA based)
+🧪 Vulnerability Scanning using Nessus
+⚔️ System Exploitation using Metasploit
+📧 Phishing Email Analysis
+🔑 Password Strength Analysis
 
+Each project focuses on:
+Real-world attack simulation
+Risk identification
+Exploitation methodology
+Security impact analysis
+Mitigation & remediation strategies
 
-## 💻 Developer Profile
+💻 Secure Development Background
+Before specializing in cybersecurity, I built applications using:
+Languages: Python, JavaScript, Java, C
+Frameworks: Django, Node.js, Express.js
+Frontend: HTML, CSS
+Databases: MySQL, MongoDB
+Version Control: Git & GitHub
 
-Even before diving into cybersecurity, I developed a deep passion for coding and web technologies — focusing on building reliable and scalable applications.
+This background enables me to:
+Understand application architecture deeply
+Identify logic-based vulnerabilities
+Recommend secure coding practices
+Build security-first applications
 
-**Skills and Technologies**
-
-- **Programming Languages:** Python, JavaScript, Java, C
-- **Frameworks and Libraries:** Django, Node.js, Express.js
-- **Frontend Technologies:** HTML, CSS
-- **Databases:** MySQL, MongoDB
-- **Version Control:** Git, GitHub
-
-
-- ![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub](https://img.icons8.com/color/48/000000/github.png)
-
-
-
-
+🎯 Professional Focus
+Offensive Security
+VAPT Execution & Reporting
+Risk-Based Vulnerability Assessment
+Secure System Design
+Continuous Security Improvement
